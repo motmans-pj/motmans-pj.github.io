@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img title="" alt="" src="/profile_pic.png" style="width:500px;height:600px;">
+<img title="" alt="" src="/profile_pic.png" style="width:200px;height:200px;">
 
 
 # About me
