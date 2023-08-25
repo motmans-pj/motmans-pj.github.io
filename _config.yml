@@ -17,12 +17,11 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "About Me", file: "AboutMe.md"}
+  #- {title: "About Me", file: "AboutMe.md"}
   - {title: "Projects"}
-  - {title: "CV": file: "MotmansPieterJanCV.pdf"}
+  #- {title: "CV": file: "MotmansPieterJanCV.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:motmans.pieterjan@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/motmans-pj"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/pieter-jan-motmans-5577061b0/"}
 
