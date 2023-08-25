@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: ""
 ---
 
 # About me
@@ -15,6 +15,7 @@ After graduating from high school, my interests were all over the place. I wante
 
 - Explored diverse courses including algorithms, statistics, machine learning, deep learning, and more.
 - Engaged in advanced topics like big data analytics, forecasting, and reinforcement learning.
+  
 
 ### University of Antwerp
 #### Bachelor in Business Engineering in Management Information Systems
@@ -31,6 +32,9 @@ Research internship
 
 
 [*A Pathway to a Fair Metaverse*](https://metalab.essec.edu/walled-gardens/)
+
+
+<img title="" alt="" src="/profile_pic.png">
 
 
 
