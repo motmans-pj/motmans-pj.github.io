@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Projects"}
-  - {title: "CV": file: "/MotmansPieterJanCV.pdf"}
+  - {title: "CV":, file: "/MotmansPieterJanCV.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/motmans-pj"}
