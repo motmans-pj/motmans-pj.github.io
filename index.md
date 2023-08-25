@@ -3,6 +3,8 @@ layout: page
 title: ""
 ---
 
+![ProfilePic](profile_pic.png){: style="float:left"}
+
 
 <body>
   <img src="/profile_pic.png" height= "120" width="120" style="float:left;"/>
