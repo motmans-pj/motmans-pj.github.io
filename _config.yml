@@ -1,7 +1,6 @@
 title: "Pieter Jan Motmans"
 author: "Blog Author"
 description: #
-logo: "profile_pic.png"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
