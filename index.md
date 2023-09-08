@@ -7,7 +7,7 @@ title: ""
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="/profile_pic.png" alt="Profile Picture" width="150" height="150">
+    <img src="/imgs/profile_pic.png" alt="Profile Picture" width="150" height="150">
   </div>
 </div>
 
