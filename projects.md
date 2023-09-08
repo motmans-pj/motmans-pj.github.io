@@ -12,11 +12,11 @@ The data consisted of spiking sequences of a single neuron in the brain of a rat
 We trained an image segmentation model on drone images taken after Hurricane Harvey. The goal was to classify each pixel into one of 26 categories. By using a similar model, help services could get to know the state of an area that was hit by a hurricane even before getting there physically. The below pictures show the original image, and the prediction of our model. 
 
 <div style="display: flex;">
-  <div style="flex: 1;">
-    <img src="/imgs/mask.png" alt="Mask" width="150" height="150">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="/imgs/mask.png" alt="Mask" width="250" height="250">
   </div>
   <div style="flex: 1;">
-    <img src="/imgs/prediction.png" alt="Prediction" width="150" height="150">
+    <img src="/imgs/prediction.png" alt="Prediction" width="250" height="250">
   </div>
 </div>
 
@@ -27,7 +27,7 @@ We implemented a PettingZoo environment in which two agents interacted in a game
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="/imgs/cornering.png" alt="Cornering behavior" width="150" height="150">
+    <img src="/imgs/cornering.png" alt="Cornering behavior" width="450" height="350">
   </div>
 </div>
 
