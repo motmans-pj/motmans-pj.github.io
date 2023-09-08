@@ -26,8 +26,20 @@ We trained an image segmentation model on drone images taken after Hurricane Har
 We implemented a PettingZoo environment in which two agents interacted in a game of hide-and-seek. We used simple Q-learning algorithms, but started to observe interesting behavior, such as the seeker locking the hider in. A picture representing that behavior is shown below. 
 
 <div style="display: flex;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="/imgs/cornering1.png" alt="Cornering 1" width="150" height="150">
+  </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="/imgs/cornering2.png" alt="Cornering 2" width="150" height="150">
+  </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="/imgs/cornering3.png" alt="Cornering 3" width="150" height="150">
+  </div>
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="/imgs/cornering4.png" alt="Cornering 4" width="150" height="150">
+  </div>
   <div style="flex: 1;">
-    <img src="/imgs/cornering.png" alt="Cornering behavior" width="450" height="350">
+    <img src="/imgs/cornering5.png" alt="Cornering 5" width="150" height="150">
   </div>
 </div>
 
